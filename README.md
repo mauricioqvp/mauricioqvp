@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mauricioqvp/mauricioqvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -22,4 +19,3 @@ Ouvir música de diversos tipos em especial clássica.
 Compreender e jogar simuladores diversos.
 Desafios de raciocínio.
 - ⚡ Fun fact: ...
--->
