@@ -6,7 +6,7 @@ Para que você saiba algo a meu respeito:
 🌱 Tenho estuado Spring Boot e outras tecnologias relacionadas.
 
 📫 Como me encontrar: 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/mauricioquaranta "Minha página no LinkedIn"){.exclude}
 Facebook
 
 😄 O que curto fazer:
