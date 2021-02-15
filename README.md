@@ -2,20 +2,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-Gerenciar uma pequena empresa do ramo de turismo.
-- 🌱 I’m currently learning ...
-Spring Boot e outras tecnologias relacionadas, como:
-Maven
-...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+🔭 Atalmente, trabalho gerenciando uma pequena hotel do ramo de turismo.
+🌱 Tenho estuado Spring Boot e outras tecnologias relacionadas.
+📫 Como me encontrar: 
 LinkedIn
 Facebook
-- 😄 O que curto fazer: ...
-Ouvir música de diversos tipos em especial clássica.
-Compreender e jogar simuladores diversos.
-Desafios de raciocínio.
-- ⚡ Fun fact: ...
+
+😄 O que curto fazer:
+- Ouvir música. Especialmente clássica.
+- Compreender e jogar simuladores diversos.
+- Desafios de raciocínio.
+
+- ⚡ Curto Ciências Exatas
