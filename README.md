@@ -1,9 +1,10 @@
-### Hi there 👋
+### Olá pessoal! 👋
 
-Here are some ideas to get you started:
+Para que você saiba algo a meu respeito:
 
 🔭 Atalmente, trabalho gerenciando uma pequena hotel do ramo de turismo.
 🌱 Tenho estuado Spring Boot e outras tecnologias relacionadas.
+
 📫 Como me encontrar: 
 LinkedIn
 Facebook
@@ -13,4 +14,4 @@ Facebook
 - Compreender e jogar simuladores diversos.
 - Desafios de raciocínio.
 
-- ⚡ Curto Ciências Exatas
+⚡ Curto Ciências Exatas
