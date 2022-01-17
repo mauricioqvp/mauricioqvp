@@ -1,4 +1,4 @@
-### Olá pessoal! 👋
+### Olá! 👋
 
 Para que você saiba algo a meu respeito:
 
